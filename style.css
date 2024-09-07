@@ -1,0 +1,19 @@
+header {
+  background-color: rgb(27, 27, 27);
+  height: 85px;
+  color: darkgray;
+  padding: 15px;
+}
+
+* {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+p {
+  font-size: 32px;
+}
